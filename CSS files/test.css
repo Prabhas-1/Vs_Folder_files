@@ -1,0 +1,13 @@
+body{
+    background-color:powderblue;
+}
+h1{color: #efacdc;
+}
+p{
+    color: red;
+}
+
+section {
+background-image:"D:\downloads\pexels-ylanite-koppens-1809340.jpg";
+    background-position:contain;
+ }
